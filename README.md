@@ -13,8 +13,3 @@ A **real-time face recognition system** that detects and identifies faces in ima
 - **TensorFlow.js**  
 - **HTML, CSS**  
 
-## 🔧 How to Use  
-1️⃣ **Clone the Repository:**  
-```bash
-git clone https://github.com/srineeta-esap/VisionGuard.git
-cd VisionGuard
